@@ -1,4 +1,4 @@
-# Plantilla Práctica 1 / TEST
+# Plantilla Práctica 1
 Este es un repositorio básico para comprobar cómo funciona GitHub y, especialmente, GitHub Classroom.
 
 
