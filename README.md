@@ -15,3 +15,9 @@ Primera captura del tablero de Trello con las tareas sin completar:
 Segunda captura del tablero de Trello con las tareas completadas:
 
 <img src='/TRELLO 2.png' width='750px'>
+
+Capturas de la página de inicio y perfil de GitHub:
+
+<img src='/GitHub 1.png' width='750px'>
+
+<img src='/GitHub 2.png' width='750px'>
